@@ -3,6 +3,5 @@
 int main(void) {
   printf("Hello World\n");
   printf("660710611 PIMWAREE PULKSAEM");
-  llkl
   return 0;
 }
